@@ -1,0 +1,34 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="OTHER_INDENT_OPTIONS">
+      <value>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </value>
+    </option>
+    <ScalaCodeStyleSettings>
+      <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
+      <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
+    </ScalaCodeStyleSettings>
+    <TypeScriptCodeStyleSettings version="0">
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+      <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    </TypeScriptCodeStyleSettings>
+    <codeStyleSettings language="CSS">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="HTML">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="Scala">
+      <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
